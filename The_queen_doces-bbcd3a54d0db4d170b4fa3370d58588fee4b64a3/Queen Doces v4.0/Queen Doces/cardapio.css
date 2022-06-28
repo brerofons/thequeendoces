@@ -35,6 +35,11 @@
                 margin: 2.5vh;
             }
     
+            .top-side header a{
+                text-decoration: none;
+                color:#ABBAFE ;
+            }
+
             .top-side header h1 /* Nome */
             {
                 font-size: 6vh;
