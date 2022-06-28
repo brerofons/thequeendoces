@@ -1,0 +1,114 @@
+        /* IM ALL */
+
+        body
+        {
+    
+        /* Degrade Geral */
+    
+            background-image: linear-gradient(to top, #A1D8FF, #E8B4DC);
+            min-height: 100vh;  
+    
+        }
+    
+    /* IM TOP SIDE */
+    
+        /* Header */
+    
+            .top-side header /* CSS Cabeçalho */
+            {
+                background-color: white;
+                min-width: 100%;
+                max-height: 18vh;
+            }
+    
+            .top-side header .container-fluid .row /* Conteudo do Cabeçalho */
+            {
+                font-family: cursive;
+                color: #ABBAFE;
+    
+                padding-bottom: 2vh;
+            }
+    
+            .top-side header img /* Logo */
+            {
+                max-height: 15vh;
+                margin: 2.5vh;
+            }
+    
+            .top-side header h1 /* Nome */
+            {
+                font-size: 6vh;
+            }
+    
+            .top-side header h1 p /* Slogan */
+            {
+                font-size: 3vh; 
+            }
+    
+        /* Sub-Header */
+    
+            .top-side .sub-header nav .row div /* Box */
+            {
+                background-color: #ABBAFE;
+                border-radius: 250px;
+    
+                margin-top: -3vh;
+            }
+    
+            .top-side .sub-header nav .row div ul li a /* Itens */
+            {
+                color: white; 
+            }
+    
+    /* IM MID SIDE */
+
+        /*Donuts*/
+
+            .mid-side .doces
+            {
+                background-color: white;
+                margin-top: 5vh;
+                padding: 2.5vh;
+                border-radius: 10px;
+            }
+
+            .mid-side .doces .title div
+            {
+                color: #ABBAFE;
+                border-bottom: solid 2.5px #ABBAFE;
+                font-family: cursive;
+            }
+
+            .mid-side .doces .title hr
+            {
+                border: solid 2.5px #ABBAFE;
+            }
+
+            .mid-side .doces .produtos div
+            {
+                color: #ABBAFE;
+                border: solid 2.5px #ABBAFE;
+                border-radius: 10px;
+            }
+
+            .mid-side .doces .produtos div img
+            {
+                margin: 10%;
+            }
+
+            .mid-side .doces .produtos div div
+            {
+                color: white;
+                background-color: #ABBAFE;
+                border-radius: 50px;
+            }
+    
+    /* IM BOT SIDE */
+    
+        /* Rodapé */
+        footer
+        {
+            background-color: 
+            #ABBAFE;
+            margin-top: 10vh;
+        }
